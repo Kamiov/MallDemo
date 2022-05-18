@@ -1,5 +1,5 @@
 {
-  "name": "mall",
+  "name": "mi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "babel-preset-es2015": "^6.24.1",
     "core-js": "^3.6.4",
     "qrcode": "^1.4.4",
+    "sass": "^1.49.9",
     "swiper": "^5.3.8",
     "vue": "^2.6.11",
     "vue-infinite-scroll": "^2.0.2",

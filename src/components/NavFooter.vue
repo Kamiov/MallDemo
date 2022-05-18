@@ -5,14 +5,14 @@
       <p>小米商城</p>
     </div>
     <div class="foot-link">
-      <a href="https://github.com/lhzjoker" target="_blank">叫我阿华就好了主页</a>
-      <a href="https://github.com/lhzjoker/MiMall" target="_blank">小米商城复刻前端源码</a>
-      <a href="https://github.com/lhzjoker/blink" target="_blank">纯商业级微信小程序开发源码</a>
+      <a href="#" target="_blank">主页</a>
+      <a href="#" target="_blank">小米商城</a>
+      <a href="#" target="_blank">小米商城</a>
     </div>
     <div class="Copyright">
         Copyright ©2020 
-      <span>叫我阿华就好了</span>
-       <a href="http://www.beian.miit.gov.cn/">湘ICP备20010729号</a>
+      <span>小米商城</span>
+       <a href="#">湘ICP备20010729号</a>
     </div>
   </div>
 </template>

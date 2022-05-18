@@ -40,9 +40,9 @@
       <div class="container">
         <div class="login-foot">
           <div class="foot-link">
-            <a href="https://github.com/lhzjoker" target="_blank">叫我阿华就好了主页</a>
-            <a href="https://github.com/lhzjoker/MiMall" target="_blank">小米商城复刻前端源码</a>
-            <a href="https://github.com/lhzjoker/blink" target="_blank">纯商业级微信小程序开发源码</a>
+            <a href="#" target="_blank">主页</a>
+            <a href="#" target="_blank">小米商城</a>
+            <a href="#" target="_blank">大米</a>
           </div>
           <div class="Copyright">Copyright ©2020mi.lhzjoker.comAll Rights Reserved</div>
         </div>
@@ -58,7 +58,7 @@ export default {
       username: "",
       password: "",
       userId: "",
-      email: "2313169248@qq.com"
+      email: ""
     };
   },
   methods: {

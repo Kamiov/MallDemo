@@ -11,6 +11,8 @@ import store from './store/index'
 // import env from './env'
 
 //根据前端跨域进行调整，`baseURL` 将自动加在 `url` 前面
+//慕课网的线上nginx代理，跑路将无法使用...
+//有空改成本地的数据
 axios.defaults.baseURL = '/api'
 // axios.defaults.baseURL = env.baseURL
 //设置超时时间

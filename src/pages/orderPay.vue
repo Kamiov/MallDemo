@@ -85,7 +85,8 @@ export default {
   name: "order-pay",
   data() {
     return {
-      orderNo: this.$route.query.orderNo, //订单号
+      // orderNo: this.$route.query.orderNo, //订单号
+      orderNo: '', //订单号
       addrinfo: {}, //收货人详细地址
       goodsdetail: [], //商品信息
       totalPrice: 0, //商品总价
